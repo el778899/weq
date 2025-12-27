@@ -1,3 +1,1 @@
-# weq
-
-Generated with https://github.com/zmrlft/GreenWall.
+asc weq weq weq
